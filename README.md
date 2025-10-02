@@ -1,6 +1,7 @@
 # Flask To-Do Web App ✅
 
-A simple **to-do list web application** built with **Python** and **Flask**.  
+Learning project: A Flask to-do web application demonstrating routes, templates, and JSON persistence.
+
 This project was created for learning purposes and demonstrates basic web development concepts:
 - Flask routes and templates
 - Passing data to the frontend
